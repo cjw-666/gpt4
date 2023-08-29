@@ -25,7 +25,7 @@ export default {
     success: '操作成功',
     failed: '操作失败',
     verify: '验证',
-    unauthorizedTips: '未经授权，请先进行验证。',
+    unauthorizedTips: '使用之前，请输入使用密钥。在www.xstech.top的对应网页获取。',
 		stopResponding: '停止响应',
   },
   chat: {
